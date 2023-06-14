@@ -4,7 +4,7 @@ package com.mycompany.cadastro6.entidades;
 import java.util.Date;
 
 
-class Aluno {
+public class Aluno {
     private String nome;
     private char sexo;
     private int idade;
